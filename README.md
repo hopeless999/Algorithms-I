@@ -1,3 +1,3 @@
 # Algorithms-I
 
-# Includes all assignments in Algorithms I on Coursera.
+Includes all assignments in Algorithms I on Coursera.
